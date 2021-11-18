@@ -1,0 +1,26 @@
+{
+  "name": "pax-android-payment",
+  "version": "0.1.0",
+  "description": "A payment module for pax devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quangvi456/PaxAndroidPayment.git"
+  },
+  "keywords": [
+    "\"Payment",
+    "module",
+    "for",
+    "pax",
+    "devices\""
+  ],
+  "author": "Quang Vi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quangvi456/PaxAndroidPayment/issues"
+  },
+  "homepage": "https://github.com/quangvi456/PaxAndroidPayment#readme"
+}

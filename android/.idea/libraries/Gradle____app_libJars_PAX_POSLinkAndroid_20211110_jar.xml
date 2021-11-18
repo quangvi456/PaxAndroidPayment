@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libJars/PAX_POSLinkAndroid_20211110.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libJars/PAX_POSLinkAndroid_20211110.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

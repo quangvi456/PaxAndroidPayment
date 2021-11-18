@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libJars/GLComm_V1.08.00_20211022.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libJars/GLComm_V1.08.00_20211022.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

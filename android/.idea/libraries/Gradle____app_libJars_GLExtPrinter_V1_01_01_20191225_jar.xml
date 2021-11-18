@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libJars/GLExtPrinter_V1.01.01_20191225.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libJars/GLExtPrinter_V1.01.01_20191225.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
